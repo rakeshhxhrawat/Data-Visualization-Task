@@ -1,5 +1,5 @@
 
-# SDE Interview Data Visualization Task
+# Data Visualization Task
 
 
 Calculating some statistical measures of the Wine Data Set.
