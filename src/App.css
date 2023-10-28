@@ -1,0 +1,13 @@
+.container{
+  width: 100%;
+  overflow: hidden;
+}
+.data-table{
+  border: 1px solid rgba(0,0,0,0.8);
+  border-collapse: collapse;
+}
+.data-table td,.data-table th{
+  padding: 10px;
+  text-align: left;
+  border: 1px solid rgba(0,0,0,0.8);
+}
